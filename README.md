@@ -58,10 +58,11 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ce7386a2-edd3-4e0d-9cbe-c58127d93f16" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/0393326b-7d0b-4442-9796-fd7159c70130" />
 
 
 ## PROGRAM
+```
 void setup() {
   pinMode(10,OUTPUT);
   pinMode(5,INPUT);
@@ -82,6 +83,7 @@ void loop() {
   else
         digitalWrite(10,LOW);
 }
+```
 
 ## OUTPUT
 ON 
