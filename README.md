@@ -58,9 +58,37 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ce7386a2-edd3-4e0d-9cbe-c58127d93f16" />
+
 
 ## PROGRAM
+void setup() {
+  pinMode(10,OUTPUT);
+  pinMode(5,INPUT);
+
+
+}
+
+void loop() {
+  int status = digitalRead(5);
+  if(status==1)
+  {
+    digitalWrite(10,HIGH);
+    delay(500);
+    digitalWrite(10,LOW);
+    delay(500);
+
+  }
+  else
+        digitalWrite(10,LOW);
+}
 
 ## OUTPUT
+ON 
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1ac2d949-de37-450d-8335-73628753fe50" />
+OFF
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/75cca33c-0c88-45b3-a059-4cb25f93d5ec" />
+
 
 ## RESULT
+hence the above program exicuted sucessfully 
