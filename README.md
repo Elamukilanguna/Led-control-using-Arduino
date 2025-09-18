@@ -1,7 +1,6 @@
  # NAME : ELAMUKILAN G 
  # REGISTER NO :212223040045
- # EXP 1 
- # Led-control-using-Arduino
+ # EXP 1  Led control using Arduino
 
 ## AIM
 
