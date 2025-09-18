@@ -62,7 +62,8 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/0393326b-7d0b-4442-9796-fd7159c70130" />
+<img width="785" height="604" alt="Screenshot 2025-09-18 083112" src="https://github.com/user-attachments/assets/0a8977a1-e4cf-45d9-b563-d6051d63c554" />
+
 
 
 ## PROGRAM
@@ -91,10 +92,12 @@ void loop() {
 
 ## OUTPUT
 ON 
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/1ac2d949-de37-450d-8335-73628753fe50" />
+<img width="1101" height="673" alt="Screenshot 2025-09-18 083010" src="https://github.com/user-attachments/assets/4c7f4502-0d8c-432f-aa4f-9034cbbc782c" />
+
 OFF
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/75cca33c-0c88-45b3-a059-4cb25f93d5ec" />
+<img width="1102" height="681" alt="Screenshot 2025-09-18 083135" src="https://github.com/user-attachments/assets/9408463a-8480-423f-9543-09643745c73b" />
 
 
 ## RESULT
-hence the above program exicuted sucessfully 
+Thus the program to design and implement a system for LED control using an Arduino microcontroller and a push button is executed successfully
+
